@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/yabause/!svn/ver/2788/trunk/yabause/l10n
+END
+yabause_de.yts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2728/trunk/yabause/l10n/yabause_de.yts
+END
+yabause_sv.yts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2728/trunk/yabause/l10n/yabause_sv.yts
+END
+yabause_it.yts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2728/trunk/yabause/l10n/yabause_it.yts
+END
+yabause_lt.yts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2728/trunk/yabause/l10n/yabause_lt.yts
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/1930/trunk/yabause/l10n/Makefile.am
+END
+yabause_pt.yts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2728/trunk/yabause/l10n/yabause_pt.yts
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/l10n/CMakeLists.txt
+END
+yabause_pt_BR.yts
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2788/trunk/yabause/l10n/yabause_pt_BR.yts
+END
+yabause_es.yts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2728/trunk/yabause/l10n/yabause_es.yts
+END
+yabause_fr.yts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2788/trunk/yabause/l10n/yabause_fr.yts
+END

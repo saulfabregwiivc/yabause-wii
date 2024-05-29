@@ -1,0 +1,87 @@
+#       Makefile.wii
+#       Wii makefile
+#	Copyright (C) 2002, 2003, 2004 Lawrence Sebald
+#       Copyright (C) 2004-2008 Theo Berkau
+#	Based on KOS makefiles (C) by Dan Potter
+#
+#	This program is free software; you can redistribute it and/or modify
+#	it under the terms of the GNU General Public License as published by
+#	the Free Software Foundation; either version 2 of the License, or
+#	(at your option) any later version.
+#
+#	This program is distributed in the hope that it will be useful,
+#	but WITHOUT ANY WARRANTY; without even the implied warranty of
+#	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#	GNU General Public License for more details.
+#
+#	You should have received a copy of the GNU General Public License
+#	along with this program; if not, write to the Free Software
+#	Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
+#
+
+ifeq ($(strip $(DEVKITPPC)),)
+$(error "Please set DEVKITPPC in your environment. export DEVKITPPC=<path to>devkitPPC)
+endif
+
+include $(DEVKITPPC)/wii_rules
+
+TARGET = yabause.elf
+#  
+DDEFINES=
+DDEFINES+= -DUSE_WIIGX
+#DDEFINES+= -DWIIAUDIO_THREAD
+#DDEFINES+= -DHIGHRESO
+DDEFINES+= -DWIICONVERTASM
+#
+DDEFINES+= -Dmain=SDL_main
+DDEFINES+= -DHAVE_LIBSDL
+#
+DDEFINES+= -DEXEC_FROM_CACHE
+DDEFINES+= -DOPTIMIZED_DMA
+DDEFINES+= -DHAVE_Q68
+DDEFINES+= -DQ68_DISABLE_ADDRESS_ERROR
+#
+DDEFINES+= -DUSE_SCSP2
+DDEFINES+= -DSCSP_PLUGIN
+#
+DDEFINES+= -DAUTOLOADPLUGIN
+#
+#DDEFINES+= -DDEBUG
+VDEFINES=-DPACKAGE=\"yabause-wii\" -DVERSION=\"r2926\" -DWIIVERSION=\"ver.\ Unofficial\ r2926\ beta26\" -DWORDS_BIGENDIAN -DREENTRANT_SYSCALLS_PROVIDED
+#MACHDEP = -DGEKKO -mcpu=750 -meabi -mhard-float -fsigned-char
+MACHDEP = -DGEKKO -mcpu=750 -meabi -mhard-float -fsigned-char -fomit-frame-pointer -ffast-math -funroll-loops -fauto-inc-dec -finline-functions
+#MACHDEP = -DGEKKO -mcpu=750 -flto -meabi -mhard-float -fsigned-char -fomit-frame-pointer -ffast-math -funroll-loops -fauto-inc-dec -finline-functions
+#CFLAGS=$(VDEFINES) $(DDEFINES) -g -O2 -mrvl -Wall $(MACHDEP) -I$(LIBOGC_INC)
+CFLAGS=$(VDEFINES) $(DDEFINES) -Ofast -mrvl -Wall $(MACHDEP) -I$(LIBOGC_INC)
+#LDFLAGS= -g $(MACHDEP) -mrvl -Wl,-Map,$(notdir $@).map
+LDFLAGS= $(MACHDEP) -mrvl -Wl,-Map,$(notdir $@).map
+#LIBS := -lfat -lwiiuse -lbte -logc -lm
+LIBS := -lSDL -lfat -lwiiuse -lwiikeyboard -lbte -logc -lm -lmxml
+OBJS = bios.o cdbase.o cheat.o coffelf.o cs0.o cs1.o cs2.o debug.o \
+error.o m68kcore.o m68kc68k.o movie.o m68kd.o memory.o netlink.o peripheral.o \
+profile.o scu.o sh2core.o sh2idle.o sh2int.o sh2d.o smpc.o sndsdl.o snddummy.o vdp1.o \
+vdp2.o vidshared.o vidsoft.o yabause.o ygl.o c68k/c68k.o c68k/c68kexec.o \
+osdcore.o \
+wii/yui.o wii/perwii.o wii/sndwii.o wii/iowii.o \
+m68kq68.o q68/q68.o q68/q68-core.o q68/q68-disasm.o \
+titan/titan.o \
+scspdummy.o scsp.o scsp2.o thr-wii.o vidsoftold.o
+#scsp2.o thr-wii.o
+#scsp2.o thr-dummy.o
+#scsp.o
+DEPSDIR = $(CURDIR)
+export LD := $(CC)
+export LIBPATHS := -L$(LIBOGC_LIB)
+
+all: $(TARGET)
+
+$(TARGET): $(OBJS)
+
+clean:
+	rm -f $(OBJS)
+	rm -f $(TARGET)                       
+	rm *.d
+	rm */*.d
+
+c68k/c68kexec.o:
+	$(CC) $(VDEFINES) $(DDEFINES) -mrvl -Wall $(MACHDEP) -I$(LIBOGC_INC) -c c68k/c68kexec.c -o $@

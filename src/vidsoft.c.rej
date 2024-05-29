@@ -1,0 +1,70 @@
+--- src/vidsoft.c	2012-06-04 22:29:29 +0900
++++ src/vidsoft.c	2012-04-28 14:26:01 +0900
+@@ -794,20 +861,32 @@
+ 
+          // See if screen position is clipped, if it isn't, continue
+ 		 // AND window logic
++#ifndef GEKKO
+ 		 if(!TestWindow(info->wctl, 0x2, 0x1, &clip[0], i, j) && !TestWindow(info->wctl, 0x8, 0x4, &clip[1], i, j) && (info->wctl & 0x80) == 0x80)
++#else
++		 if(!TestWindow(info->wctl, 0x2, 0x1, &clip[0], i << resxratio, j << resyratio) && !TestWindow(info->wctl, 0x8, 0x4, &clip[1], i << resxratio, j << resyratio) && (info->wctl & 0x80) == 0x80)
++#endif
+ 		 {
+ 			 continue;
+ 		 }
+ 		 //OR window logic
+ 		 else if ((info->wctl & 0x80) == 0)
+ 		 {
++#ifndef GEKKO
+ 			 if (!TestWindow(info->wctl, 0x2, 0x1, &clip[0], i, j))
++#else
++			 if (!TestWindow(info->wctl, 0x2, 0x1, &clip[0], i << resxratio, j << resyratio))
++#endif
+ 			 {
+ 				 continue;
+ 			 }
+ 
+ 			 // Window 1
+-			 if (!TestWindow(info->wctl, 0x8, 0x4, &clip[1], i,j))
++#ifndef GEKKO
++			 if (!TestWindow(info->wctl, 0x8, 0x4, &clip[1], i, j))
++#else
++			 if (!TestWindow(info->wctl, 0x8, 0x4, &clip[1], i << resxratio, j << resyratio))
++#endif
+ 			 {
+ 				 continue;
+ 			 }
+@@ -2974,13 +3212,21 @@
+          {
+             // See if screen position is clipped, if it isn't, continue
+             // Window 0
++#ifndef GEKKO
+             if (!TestWindow(wctl, 0x2, 0x1, &clip[0], i, i2))
++#else
++            if (!TestWindow(wctl, 0x2, 0x1, &clip[0], i << resxratio, i2 << resyratio))
++#endif
+             {
+                continue;
+             }
+ 
+             // Window 1
++#ifndef GEKKO
+             if (!TestWindow(wctl, 0x8, 0x4, &clip[1], i, i2))
++#else
++            if (!TestWindow(wctl, 0x8, 0x4, &clip[1], i << resxratio, i2 << resyratio))
++#endif
+             {
+                continue;
+             }
+@@ -3081,7 +3339,11 @@
+                   u8 alpha = 0xFF;
+                   priority = 0;  // Avoid compiler warning
+                   Vdp1ProcessSpritePixel(vdp1spritetype, &pixel, &shadow, &priority, &colorcalc);
++#ifndef WORDS_BIGENDIAN
+                   TitanPutPixel(prioritytable[priority], i, i2, info.PostPixelFetchCalc(&info, COLSAT2YAB32(alpha, Vdp2ColorRamGetColor(vdp1coloroffset + pixel))), 0);
++#else
++                  TitanPutPixel(prioritytable[priority], i, i2, info.PostPixelFetchCalcBIG(&info, COLSAT2YAB32(alpha, Vdp2ColorRamGetColor(vdp1coloroffset + pixel))), 0);
++#endif
+ 
+                }
+             }

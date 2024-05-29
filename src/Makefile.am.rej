@@ -1,0 +1,11 @@
+--- src/Makefile.am	2012-06-04 22:29:29 +0900
++++ src/Makefile.am	2012-04-27 23:29:12 +0900
+@@ -34,7 +34,7 @@
+ 	debug.c debug.h error.c error.h memory.c memory.h \
+ 	m68kcore.c m68kcore.h m68kd.c m68kd.h movie.c movie.h \
+ 	netlink.c netlink.h peripheral.h peripheral.c \
+-	persdljoy.c persdljoy.h profile.c profile.h \
++	profile.c profile.h \
+ 	scu.c scu.h sh2core.c sh2core.h sh2d.c sh2d.h \
+ 	sh2idle.c sh2idle.h sh2int.c sh2int.h sh2trace.c sh2trace.h \
+ 	smpc.c smpc.h sndal.c sndal.h snddummy.c sndsdl.c sndsdl.h sndwav.c \

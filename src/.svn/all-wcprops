@@ -1,0 +1,653 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/yabause/!svn/ver/2925/trunk/yabause/src
+END
+m68kcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/m68kcore.c
+END
+scu.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/scu.h
+END
+peripheral.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/peripheral.h
+END
+m68kcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/m68kcore.h
+END
+coffelf.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2511/trunk/yabause/src/coffelf.c
+END
+sndmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/sndmac.c
+END
+scsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2879/trunk/yabause/src/scsp.c
+END
+coffelf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/coffelf.h
+END
+sndmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/sndmac.h
+END
+vdp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2907/trunk/yabause/src/vdp2.c
+END
+logo.svg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/1343/trunk/yabause/src/logo.svg
+END
+scsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2824/trunk/yabause/src/scsp.h
+END
+vdp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2907/trunk/yabause/src/vdp2.h
+END
+thr-dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/thr-dummy.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/debug.c
+END
+permacjoy.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/permacjoy.c
+END
+m68kd.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/m68kd.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2772/trunk/yabause/src/error.c
+END
+yabause.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2907/trunk/yabause/src/yabause.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/debug.h
+END
+logo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/5/trunk/yabause/src/logo.bmp
+END
+bios.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2511/trunk/yabause/src/bios.c
+END
+yabause.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2540/trunk/yabause/src/yabause.h
+END
+permacjoy.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/1983/trunk/yabause/src/permacjoy.h
+END
+m68kd.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2376/trunk/yabause/src/m68kd.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/error.h
+END
+cd-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/cd-freebsd.c
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/threads.h
+END
+bios.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/bios.h
+END
+smpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/smpc.c
+END
+cd-netbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/cd-netbsd.c
+END
+netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/netlink.c
+END
+smpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/smpc.h
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/memory.c
+END
+netlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/netlink.h
+END
+sh2trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/sh2trace.c
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/memory.h
+END
+cd-macosx.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cd-macosx.c
+END
+movie.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/movie.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2883/trunk/yabause/src/config.h.in
+END
+sh2trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2568/trunk/yabause/src/sh2trace.h
+END
+macjoy.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/macjoy.c
+END
+cd-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/cd-linux.c
+END
+Makefile.wii
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/Makefile.wii
+END
+movie.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/movie.h
+END
+thr-macosx.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/thr-macosx.c
+END
+cs1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/cs1.c
+END
+macjoy.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/1983/trunk/yabause/src/macjoy.h
+END
+cs1.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/cs1.h
+END
+ygl.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2907/trunk/yabause/src/ygl.c
+END
+osdcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2907/trunk/yabause/src/osdcore.c
+END
+profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/profile.c
+END
+ygl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2907/trunk/yabause/src/ygl.h
+END
+sndal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/1981/trunk/yabause/src/sndal.c
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/5/trunk/yabause/src/logo.png
+END
+osdcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2907/trunk/yabause/src/osdcore.h
+END
+profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/profile.h
+END
+sndal.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/1979/trunk/yabause/src/sndal.h
+END
+sh2int.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2820/trunk/yabause/src/sh2int.c
+END
+vidshared.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2907/trunk/yabause/src/vidshared.c
+END
+vdp1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2901/trunk/yabause/src/vdp1.c
+END
+yui.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/yui.h
+END
+persdljoy.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2568/trunk/yabause/src/persdljoy.c
+END
+Makefile.mng
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2088/trunk/yabause/src/Makefile.mng
+END
+sh2int.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2820/trunk/yabause/src/sh2int.h
+END
+cd-windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/cd-windows.c
+END
+vidshared.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2918/trunk/yabause/src/vidshared.h
+END
+vidsoft.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2925/trunk/yabause/src/vidsoft.c
+END
+vdp1.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2868/trunk/yabause/src/vdp1.h
+END
+persdljoy.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/persdljoy.h
+END
+m68kc68k.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/m68kc68k.c
+END
+Makefile.dc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2719/trunk/yabause/src/Makefile.dc
+END
+vdp2debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2920/trunk/yabause/src/vdp2debug.c
+END
+yglshader.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2804/trunk/yabause/src/yglshader.c
+END
+vidsoft.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2895/trunk/yabause/src/vidsoft.h
+END
+m68kq68.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/m68kq68.c
+END
+m68kc68k.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/m68kc68k.h
+END
+vdp2debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2895/trunk/yabause/src/vdp2debug.h
+END
+perlinuxjoy.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2507/trunk/yabause/src/perlinuxjoy.c
+END
+scsp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2879/trunk/yabause/src/scsp2.c
+END
+sh2idle.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/sh2idle.c
+END
+thr-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/thr-linux.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2907/trunk/yabause/src/CMakeLists.txt
+END
+perlinuxjoy.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/1923/trunk/yabause/src/perlinuxjoy.h
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2830/trunk/yabause/src/core.h
+END
+scsp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/scsp2.h
+END
+sh2idle.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/sh2idle.h
+END
+sh2d.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/sh2d.c
+END
+snddummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/snddummy.c
+END
+sndwav.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/sndwav.c
+END
+sh2core.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2870/trunk/yabause/src/sh2core.c
+END
+sh2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/sh2d.h
+END
+sh2core.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/sh2core.h
+END
+cdbase.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/cdbase.c
+END
+cheat.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/cheat.c
+END
+vidogl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2902/trunk/yabause/src/vidogl.c
+END
+cs0.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/cs0.c
+END
+cdbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/cdbase.h
+END
+cs2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2888/trunk/yabause/src/cs2.c
+END
+sndsdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2877/trunk/yabause/src/sndsdl.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2913/trunk/yabause/src/Makefile.am
+END
+cheat.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/cheat.h
+END
+vidogl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/vidogl.h
+END
+cs0.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/cs0.h
+END
+scu.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/scu.c
+END
+peripheral.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2755/trunk/yabause/src/peripheral.c
+END
+cs2.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/cs2.h
+END
+sndsdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/sndsdl.h
+END

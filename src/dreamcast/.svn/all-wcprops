@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast
+END
+localtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/dreamcast/localtime.h
+END
+viddc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/viddc.h
+END
+dreamcast.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/dreamcast.cmake
+END
+perdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/perdc.h
+END
+cd.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/cd.s
+END
+yui.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/yui.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/dreamcast/Makefile.am
+END
+localtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/dreamcast/localtime.c
+END
+viddc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/viddc.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/CMakeLists.txt
+END
+perdc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/perdc.c
+END

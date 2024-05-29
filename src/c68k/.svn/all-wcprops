@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/c68k
+END
+c68k.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/c68k/c68k.h
+END
+c68kexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2021/trunk/yabause/src/c68k/c68kexec.c
+END
+gen68k.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/c68k/gen68k.c
+END
+c68kmac.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2021/trunk/yabause/src/c68k/c68kmac.inc
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2049/trunk/yabause/src/c68k/configure.in
+END
+gen68k.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/c68k/gen68k.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1869/trunk/yabause/src/c68k/Makefile.am
+END
+gen68k.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2375/trunk/yabause/src/c68k/gen68k.inc
+END
+c68k.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/1975/trunk/yabause/src/c68k/c68k.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/c68k/CMakeLists.txt
+END

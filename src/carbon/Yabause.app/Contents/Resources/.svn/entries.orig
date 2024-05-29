@@ -1,0 +1,74 @@
+9
+
+dir
+2925
+https://yabause.svn.sourceforge.net/svnroot/yabause/trunk/yabause/src/carbon/Yabause.app/Contents/Resources
+https://yabause.svn.sourceforge.net/svnroot/yabause
+
+
+
+2010-01-28T23:18:57.420380Z
+2473
+yabause
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d7be59e3-070e-4b9a-85a1-4646befae34d
+
+cpustatus.nib
+dir
+
+yabause.icns
+file
+
+
+
+
+2012-06-04T13:27:36.633843Z
+570e6bbe072bc778448292a5b14b2645
+2007-09-26T20:58:22.000000Z
+1232
+antime
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45411
+
+load_dialog.nib
+dir
+
+preferences.nib
+dir
+
+menu.nib
+dir
+

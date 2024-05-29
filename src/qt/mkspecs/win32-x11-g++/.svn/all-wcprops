@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/yabause/!svn/ver/2680/trunk/yabause/src/qt/mkspecs/win32-x11-g++
+END
+qmake.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/yabause/!svn/ver/2680/trunk/yabause/src/qt/mkspecs/win32-x11-g++/qmake.conf
+END
+qplatformdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/yabause/!svn/ver/1498/trunk/yabause/src/qt/mkspecs/win32-x11-g++/qplatformdefs.h
+END

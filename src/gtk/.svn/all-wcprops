@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/yabause/!svn/ver/2921/trunk/yabause/src/gtk
+END
+yuiscsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2568/trunk/yabause/src/gtk/yuiscsp.c
+END
+yuicheckbutton.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/gtk/yuicheckbutton.c
+END
+yuish.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2568/trunk/yabause/src/gtk/yuish.c
+END
+yuivdp1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2921/trunk/yabause/src/gtk/yuivdp1.c
+END
+yuivdp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2919/trunk/yabause/src/gtk/yuivdp2.c
+END
+yuipage.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuipage.c
+END
+yuiscreenshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuiscreenshot.c
+END
+yuiscsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuiscsp.h
+END
+yuimem.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2389/trunk/yabause/src/gtk/yuimem.c
+END
+yuicheckbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/gtk/yuicheckbutton.h
+END
+yuish.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuish.h
+END
+yuivdp1.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuivdp1.h
+END
+yuivdp2.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2896/trunk/yabause/src/gtk/yuivdp2.h
+END
+yuipage.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuipage.h
+END
+yuiinputentry.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/2508/trunk/yabause/src/gtk/yuiinputentry.c
+END
+yuiscreenshot.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuiscreenshot.h
+END
+yuimem.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuimem.h
+END
+yuitransfer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2386/trunk/yabause/src/gtk/yuitransfer.c
+END
+gtkglwidget.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2792/trunk/yabause/src/gtk/gtkglwidget.c
+END
+yuiinputentry.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuiinputentry.h
+END
+yuitransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuitransfer.h
+END
+gtkglwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/gtkglwidget.h
+END
+yuiviewer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2919/trunk/yabause/src/gtk/yuiviewer.c
+END
+yuiresolution.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/2394/trunk/yabause/src/gtk/yuiresolution.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2731/trunk/yabause/src/gtk/CMakeLists.txt
+END
+pergtk.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/1950/trunk/yabause/src/gtk/pergtk.c
+END
+yuiviewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuiviewer.h
+END
+yuiwindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/gtk/yuiwindow.c
+END
+yuiresolution.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/2381/trunk/yabause/src/gtk/yuiresolution.h
+END
+settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2919/trunk/yabause/src/gtk/settings.c
+END
+pergtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/pergtk.h
+END
+yuiwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2394/trunk/yabause/src/gtk/yuiwindow.h
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/gtk/menu.c
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2919/trunk/yabause/src/gtk/settings.h
+END
+gtk-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/gtk-compat.c
+END
+gtk-compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/gtk-compat.h
+END
+yuim68k.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/gtk/yuim68k.c
+END
+yuim68k.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuim68k.h
+END
+yuirange.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuirange.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2905/trunk/yabause/src/gtk/main.c
+END
+yabause.desktop.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/gtk/yabause.desktop.in
+END
+yuirange.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuirange.h
+END
+yuifileentry.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuifileentry.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2818/trunk/yabause/src/gtk/Makefile.am
+END
+yuiscudsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/gtk/yuiscudsp.c
+END
+yabause.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/1032/trunk/yabause/src/gtk/yabause.png
+END
+yuifileentry.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuifileentry.h
+END
+yuiscudsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/gtk/yuiscudsp.h
+END

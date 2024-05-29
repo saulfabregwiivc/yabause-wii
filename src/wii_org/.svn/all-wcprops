@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/wii
+END
+perwii.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/wii/perwii.c
+END
+keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/wii/keys.h
+END
+sndwii.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/wii/sndwii.h
+END
+perwii.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/wii/perwii.h
+END
+wii.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/wii/wii.cmake
+END
+yui.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/wii/yui.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/1697/trunk/yabause/src/wii/Makefile.am
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/1695/trunk/yabause/src/wii/menu.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/wii/CMakeLists.txt
+END
+sndwii.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/wii/sndwii.c
+END

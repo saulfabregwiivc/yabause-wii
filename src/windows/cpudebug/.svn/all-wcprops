@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2898/trunk/yabause/src/windows/cpudebug
+END
+debug-scu.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/windows/cpudebug/debug-scu.c
+END
+debug-vdp1.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/yabause/!svn/ver/1964/trunk/yabause/src/windows/cpudebug/debug-vdp1.c
+END
+debug-vdp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/yabause/!svn/ver/2898/trunk/yabause/src/windows/cpudebug/debug-vdp2.c
+END
+debug-sh2.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/windows/cpudebug/debug-sh2.c
+END
+yuidebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/yabause/!svn/ver/1964/trunk/yabause/src/windows/cpudebug/yuidebug.h
+END
+debug-smpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/yabause/!svn/ver/1927/trunk/yabause/src/windows/cpudebug/debug-smpc.c
+END
+debug-68k.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/windows/cpudebug/debug-68k.c
+END
+debug-scsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/yabause/!svn/ver/1964/trunk/yabause/src/windows/cpudebug/debug-scsp.c
+END
+yuidebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/yabause/!svn/ver/2036/trunk/yabause/src/windows/cpudebug/yuidebug.c
+END

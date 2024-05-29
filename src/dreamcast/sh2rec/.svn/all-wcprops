@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/sh2rec
+END
+sh2exec.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/sh2rec/sh2exec.s
+END
+sh2rec_htab.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/sh2rec/sh2rec_htab.c
+END
+sh2rec_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/sh2rec/sh2rec_mem.c
+END
+sh2rec.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/sh2rec/sh2rec.c
+END
+sh2rec_htab.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/sh2rec/sh2rec_htab.h
+END
+sh2rec_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/sh2rec/sh2rec_mem.h
+END
+sh2rec.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/dreamcast/sh2rec/sh2rec.h
+END

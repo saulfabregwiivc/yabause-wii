@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/q68
+END
+q68.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/q68/q68.c
+END
+q68-jit-psp.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/q68/q68-jit-psp.S
+END
+q68-jit.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/q68/q68-jit.c
+END
+q68.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/q68/q68.h
+END
+q68-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/q68/q68-core.c
+END
+q68-jit-x86.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/q68/q68-jit-x86.S
+END
+q68-const.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2540/trunk/yabause/src/q68/q68-const.h
+END
+q68-jit-psp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/q68/q68-jit-psp.h
+END
+q68-jit.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/q68/q68-jit.h
+END
+q68-jit-x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/q68/q68-jit-x86.h
+END
+q68-disasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/q68/q68-disasm.c
+END
+q68-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/q68/q68-internal.h
+END

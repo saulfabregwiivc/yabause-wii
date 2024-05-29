@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2892/trunk/yabause/src/android
+END
+android.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2871/trunk/yabause/src/android/android.cmake
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/yabause/!svn/ver/2740/trunk/yabause/src/android/project.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/yabause/!svn/ver/2891/trunk/yabause/src/android/AndroidManifest.xml
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/2892/trunk/yabause/src/android/CMakeLists.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2740/trunk/yabause/src/android/build.xml
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/yabause/!svn/ver/2898/trunk/yabause/src/windows
+END
+bup-manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/1926/trunk/yabause/src/windows/bup-manager.c
+END
+yabause.sln
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/1946/trunk/yabause/src/windows/yabause.sln
+END
+ram_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/2653/trunk/yabause/src/windows/ram_search.cpp
+END
+yabause_logo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/yabause/!svn/ver/1325/trunk/yabause/src/windows/yabause_logo.bmp
+END
+aviout.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2056/trunk/yabause/src/windows/aviout.c
+END
+cheats.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1946/trunk/yabause/src/windows/cheats.c
+END
+hotkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2446/trunk/yabause/src/windows/hotkey.h
+END
+resource.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/2056/trunk/yabause/src/windows/resource.rc
+END
+ramwatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2085/trunk/yabause/src/windows/ramwatch.h
+END
+aviout.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2056/trunk/yabause/src/windows/aviout.h
+END
+cheats.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/windows/cheats.h
+END
+disasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/windows/disasm.c
+END
+inc.rules
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1890/trunk/yabause/src/windows/inc.rules
+END
+perdx.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2372/trunk/yabause/src/windows/perdx.c
+END
+disasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/windows/disasm.h
+END
+perdx.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/1946/trunk/yabause/src/windows/perdx.h
+END
+logo.ico
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1324/trunk/yabause/src/windows/logo.ico
+END
+yuiwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1926/trunk/yabause/src/windows/yuiwin.h
+END
+hexedit.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/windows/hexedit.c
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2056/trunk/yabause/src/windows/resource.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/2736/trunk/yabause/src/windows/CMakeLists.txt
+END
+hexedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/windows/hexedit.h
+END
+hotkey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2446/trunk/yabause/src/windows/hotkey.cpp
+END
+ramwatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2085/trunk/yabause/src/windows/ramwatch.cpp
+END
+yui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/windows/yui.cpp
+END
+ram_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2085/trunk/yabause/src/windows/ram_search.h
+END
+yabause.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/2057/trunk/yabause/src/windows/yabause.vcproj
+END
+snddx.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/windows/snddx.c
+END
+68klib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/1946/trunk/yabause/src/windows/68klib.vcproj
+END
+dx.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/windows/dx.h
+END
+custctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/windows/custctl.c
+END
+gen68k.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/1946/trunk/yabause/src/windows/gen68k.vcproj
+END
+snddx.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/windows/snddx.h
+END
+custctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/windows/custctl.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2792/trunk/yabause/src/windows/glext.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/2061/trunk/yabause/src/windows/Makefile.am
+END
+windows.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2679/trunk/yabause/src/windows/windows.cmake
+END
+cd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2678/trunk/yabause/src/windows/cd.h
+END

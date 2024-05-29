@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/psp
+END
+psp-video-tilemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/yabause/!svn/ver/2589/trunk/yabause/src/psp/psp-video-tilemap.c
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2589/trunk/yabause/src/psp/misc.h
+END
+osk.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/osk.h
+END
+psp-video-tweaks.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/2593/trunk/yabause/src/psp/psp-video-tweaks.c
+END
+psp-video-rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/psp-video-rotate.c
+END
+psp-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/psp-logo.png
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/psp/init.c
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/display.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2589/trunk/yabause/src/psp/config.c
+END
+rtlexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2511/trunk/yabause/src/psp/rtlexec.c
+END
+font.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/font.c
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/init.h
+END
+display.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2540/trunk/yabause/src/psp/display.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2589/trunk/yabause/src/psp/config.h
+END
+gu.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/gu.c
+END
+font.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/font.h
+END
+me-sectstart.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/psp/me-sectstart.c
+END
+psp-video-bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/2589/trunk/yabause/src/psp/psp-video-bitmap.c
+END
+gu.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/gu.h
+END
+control.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/control.c
+END
+filesel.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/filesel.c
+END
+psp-video-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/yabause/!svn/ver/2589/trunk/yabause/src/psp/psp-video-internal.h
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/control.h
+END
+psp-sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/psp-sound.c
+END
+filesel.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/filesel.h
+END
+rtlinsn.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/rtlinsn.c
+END
+sh2-optimize.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/sh2-optimize.c
+END
+threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/threads.c
+END
+psp-sh2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2589/trunk/yabause/src/psp/psp-sh2.c
+END
+psp-sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/psp-sound.h
+END
+rtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/rtl.c
+END
+psp-sh2.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/psp-sh2.h
+END
+me-utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/psp/me-utility.c
+END
+satopt-sh2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2598/trunk/yabause/src/psp/satopt-sh2.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2589/trunk/yabause/src/psp/menu.c
+END
+rtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/rtl.h
+END
+me-utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2540/trunk/yabause/src/psp/me-utility.h
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/menu.h
+END
+satopt-sh2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/satopt-sh2.h
+END
+rtl-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/rtl-internal.h
+END
+rtlopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/rtlopt.c
+END
+texcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2593/trunk/yabause/src/psp/texcache.c
+END
+psp-m68k.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/psp-m68k.c
+END
+psp-per.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/psp-per.c
+END
+timing.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/timing.c
+END
+texcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2589/trunk/yabause/src/psp/texcache.h
+END
+psp-m68k.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/psp-m68k.h
+END
+psp-per.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/psp-per.h
+END
+timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/timing.h
+END
+profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/profile.c
+END
+me.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/me.c
+END
+profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/profile.h
+END
+me.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/me.h
+END
+sh2-interpret.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/sh2-interpret.c
+END
+yui.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2787/trunk/yabause/src/psp/yui.c
+END
+sh2-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/sh2-internal.h
+END
+me-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/psp/me-test.c
+END
+sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/sys.c
+END
+sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/sys.h
+END
+me-sectend.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/psp/me-sectend.c
+END
+sh2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2593/trunk/yabause/src/psp/sh2.c
+END
+rtlunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/rtlunit.c
+END
+sh2.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/sh2.h
+END
+psp-video.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2593/trunk/yabause/src/psp/psp-video.c
+END
+rtl-mips.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2567/trunk/yabause/src/psp/rtl-mips.c
+END
+localtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/localtime.c
+END
+psp-video.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2510/trunk/yabause/src/psp/psp-video.h
+END
+me.exp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/me.exp
+END
+rtl-mips.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2530/trunk/yabause/src/psp/rtl-mips.h
+END
+localtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/localtime.h
+END
+sh2-opcodeinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/sh2-opcodeinfo.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/main.c
+END
+psp-cd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/psp-cd.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/Makefile.am
+END
+sh2-core.i
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/sh2-core.i
+END
+psp-cd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2448/trunk/yabause/src/psp/psp-cd.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/misc.c
+END
+osk.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/osk.c
+END
+icache-funcs-2450.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/yabause/!svn/ver/2021/trunk/yabause/src/psp/icache-funcs-2450.patch
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2582/trunk/yabause/src/psp/common.h
+END

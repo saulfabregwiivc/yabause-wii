@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2887/trunk/yabause/src/qt/ui
+END
+UIBackupRam.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2728/trunk/yabause/src/qt/ui/UIBackupRam.ui
+END
+UISettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2887/trunk/yabause/src/qt/ui/UISettings.cpp
+END
+UIPadSetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/2083/trunk/yabause/src/qt/ui/UIPadSetting.cpp
+END
+UICheats.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1466/trunk/yabause/src/qt/ui/UICheats.ui
+END
+UICheatAR.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/1392/trunk/yabause/src/qt/ui/UICheatAR.ui
+END
+UICheatRaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UICheatRaw.h
+END
+UIBackupRam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2772/trunk/yabause/src/qt/ui/UIBackupRam.cpp
+END
+UIAbout.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1380/trunk/yabause/src/qt/ui/UIAbout.ui
+END
+UISettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UISettings.h
+END
+UICheats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UICheats.cpp
+END
+UICheatAR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UICheatAR.cpp
+END
+UIPadSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2083/trunk/yabause/src/qt/ui/UIPadSetting.h
+END
+UIBackupRam.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UIBackupRam.h
+END
+UIAbout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2771/trunk/yabause/src/qt/ui/UIAbout.cpp
+END
+UIPortManager.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/yabause/!svn/ver/1871/trunk/yabause/src/qt/ui/UIPortManager.ui
+END
+UICheats.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UICheats.h
+END
+UICheatAR.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UICheatAR.h
+END
+UIAbout.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UIAbout.h
+END
+UIPortManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/yabause/!svn/ver/2083/trunk/yabause/src/qt/ui/UIPortManager.cpp
+END
+UIWaitInput.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/1394/trunk/yabause/src/qt/ui/UIWaitInput.ui
+END
+UIPortManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2083/trunk/yabause/src/qt/ui/UIPortManager.h
+END
+UIWaitInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/1950/trunk/yabause/src/qt/ui/UIWaitInput.cpp
+END
+UIYabause.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2798/trunk/yabause/src/qt/ui/UIYabause.ui
+END
+UICheatRaw.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/1392/trunk/yabause/src/qt/ui/UICheatRaw.ui
+END
+UIWaitInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UIWaitInput.h
+END
+UIYabause.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/2887/trunk/yabause/src/qt/ui/UIYabause.cpp
+END
+UISettings.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/2887/trunk/yabause/src/qt/ui/UISettings.ui
+END
+UIPadSetting.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/1883/trunk/yabause/src/qt/ui/UIPadSetting.ui
+END
+UICheatRaw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/ui/UICheatRaw.cpp
+END
+UIYabause.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2689/trunk/yabause/src/qt/ui/UIYabause.h
+END

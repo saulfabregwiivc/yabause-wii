@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2892/trunk/yabause/src/android/jni
+END
+sndaudiotrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/yabause/!svn/ver/2892/trunk/yabause/src/android/jni/sndaudiotrack.h
+END
+yui.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2892/trunk/yabause/src/android/jni/yui.c
+END
+miniegl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2891/trunk/yabause/src/android/jni/miniegl.h
+END
+Android.mk.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/yabause/!svn/ver/2892/trunk/yabause/src/android/jni/Android.mk.in
+END
+sndaudiotrack.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/yabause/!svn/ver/2892/trunk/yabause/src/android/jni/sndaudiotrack.c
+END

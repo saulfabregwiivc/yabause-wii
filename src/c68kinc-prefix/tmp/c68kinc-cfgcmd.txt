@@ -1,0 +1,1 @@
+cmd='c:/Program Files/CMake 2.8/bin/cmake.exe;-GMSYS Makefiles;C:/Users/rako/yabause-r2925/src/c68k'

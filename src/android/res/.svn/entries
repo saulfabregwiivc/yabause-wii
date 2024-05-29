@@ -1,0 +1,49 @@
+9
+
+dir
+2925
+https://yabause.svn.sourceforge.net/svnroot/yabause/trunk/yabause/src/android/res
+https://yabause.svn.sourceforge.net/svnroot/yabause
+
+
+
+2012-01-05T21:22:19.536043Z
+2786
+yabause
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d7be59e3-070e-4b9a-85a1-4646befae34d
+
+values
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+

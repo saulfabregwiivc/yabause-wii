@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/windows/settings
+END
+settings-basic.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/windows/settings/settings-basic.c
+END
+settings-log.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/yabause/!svn/ver/1945/trunk/yabause/src/windows/settings/settings-log.c
+END
+settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/windows/settings/settings.c
+END
+settings-netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/yabause/!svn/ver/1927/trunk/yabause/src/windows/settings/settings-netlink.c
+END
+settings-video.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/yabause/!svn/ver/1945/trunk/yabause/src/windows/settings/settings-video.c
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/windows/settings/settings.h
+END
+settings-sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/yabause/!svn/ver/1927/trunk/yabause/src/windows/settings/settings-sound.c
+END
+settings-input.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/yabause/!svn/ver/1945/trunk/yabause/src/windows/settings/settings-input.c
+END

@@ -1,0 +1,34 @@
+##
+#rm CMakeCache.txt
+#rm -rf CMakeFiles
+cd ../c68k
+#make clean
+#rm CMakeCache.txt
+#rm -rf CMakeFiles
+cd ..
+#rm CMakeCache.txt
+#rm -rf CMakeFiles
+cd ..
+#rm CMakeCache.txt
+#rm -rf CMakeFiles
+##
+cmake -G "MSYS Makefiles" -DCMAKE_SYSTEM_NAME=Generic -DCMAKE_SYSTEM_VERSION=1 -DCMAKE_C_COMPILER=powerpc-eabi-gcc -DCMAKE_CXX_COMPILER=powerpc-eabi-g++ -DCMAKE_C_COMPILER_FORCED=ON -DCMAKE_FIND_ROOT_PATH=$ENV{DEVKITPPC}/powerpc-eabi -DCMAKE_FIND_ROOT_PATH_MODE_PROGRAM=NEVER -DCMAKE_FIND_ROOT_PATH_MODE_LIBRARY=ONLY -DCMAKE_FIND_ROOT_PATH_MODE_INCLUDE=ONLY -DWII=1 -DYAB_EXEC_FROM_CACHE:BOOL=ON -DYAB_NETWORK:BOOL=OFF -DYAB_OPTIMIZED_DMA:BOOL=ON -DYAB_PERKEYNAME:BOOL=OFF -DYAB_SHADERS:BOOL=OFF -DYAB_WANT_C68K:BOOL=ON -DYAB_WANT_OPENAL:BOOL=OFF -DYAB_WANT_OPENGL:BOOL=OFF -DYAB_WANT_Q68:BOOL=ON -DYAB_WANT_SDL:BOOL=ON -DYAB_USE_SCSP2=ON -DYAB_SCSP_PLUGIN=ON .
+#
+make clean
+#
+make
+elf2dol src/wii/yabause.elf src/wii/boot.dol
+##
+#make clean
+#rm CMakeCache.txt
+#rm -rf CMakeFiles
+cd src
+#rm CMakeCache.txt
+#rm -rf CMakeFiles
+cd c68k
+#make clean
+#rm CMakeCache.txt
+#rm -rf CMakeFiles
+cd ../wii
+#rm CMakeCache.txt
+#rm -rf CMakeFiles

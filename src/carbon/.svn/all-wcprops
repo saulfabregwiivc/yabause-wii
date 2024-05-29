@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/carbon
+END
+build_dmg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/carbon/build_dmg.sh
+END
+cpustatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/carbon/cpustatus.h
+END
+settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2473/trunk/yabause/src/carbon/settings.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/carbon/main.c
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/1932/trunk/yabause/src/carbon/settings.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/1224/trunk/yabause/src/carbon/Makefile.am
+END
+cpustatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/carbon/cpustatus.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2775/trunk/yabause/src/carbon/CMakeLists.txt
+END

@@ -1,0 +1,34 @@
+9
+
+dir
+2925
+https://yabause.svn.sourceforge.net/svnroot/yabause/trunk/yabause/src/qt/mkspecs
+https://yabause.svn.sourceforge.net/svnroot/yabause
+
+
+
+2011-11-14T19:32:46.613000Z
+2680
+pasnox
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d7be59e3-070e-4b9a-85a1-4646befae34d
+
+win32-osx-g++
+dir
+
+win32-x11-g++
+dir
+

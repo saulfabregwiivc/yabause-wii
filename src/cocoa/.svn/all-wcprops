@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/yabause/!svn/ver/2914/trunk/yabause/src/cocoa
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/main.m
+END
+PerCocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/PerCocoa.h
+END
+vidgcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2914/trunk/yabause/src/cocoa/vidgcd.c
+END
+YabausePrefsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/YabausePrefsController.h
+END
+YabauseController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/YabauseController.h
+END
+Yabause.icns
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/Yabause.icns
+END
+PerCocoa.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/PerCocoa.m
+END
+vidgcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/vidgcd.h
+END
+YabausePrefsController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/YabausePrefsController.m
+END
+YabauseController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/yabause/!svn/ver/2884/trunk/yabause/src/cocoa/YabauseController.m
+END
+YabauseGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/YabauseGLView.h
+END
+YabauseButtonFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/YabauseButtonFormatter.h
+END
+YabauseGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2732/trunk/yabause/src/cocoa/YabauseGLView.m
+END
+YabauseButtonFormatter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/cocoa/YabauseButtonFormatter.m
+END
+Yabause-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/yabause/!svn/ver/2725/trunk/yabause/src/cocoa/Yabause-Info.plist
+END

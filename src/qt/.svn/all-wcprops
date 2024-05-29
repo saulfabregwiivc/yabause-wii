@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/yabause/!svn/ver/2906/trunk/yabause/src/qt
+END
+QtYabause.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2771/trunk/yabause/src/qt/QtYabause.cpp
+END
+VolatileSettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/yabause/!svn/ver/2685/trunk/yabause/src/qt/VolatileSettings.cpp
+END
+Settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/yabause/!svn/ver/2906/trunk/yabause/src/qt/Settings.cpp
+END
+PerQt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/PerQt.h
+END
+CommonDialogs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2785/trunk/yabause/src/qt/CommonDialogs.h
+END
+QtYabause.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2771/trunk/yabause/src/qt/QtYabause.h
+END
+VolatileSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2696/trunk/yabause/src/qt/VolatileSettings.h
+END
+Settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/yabause/!svn/ver/1911/trunk/yabause/src/qt/Settings.h
+END
+Arguments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2728/trunk/yabause/src/qt/Arguments.cpp
+END
+YabauseSoftGL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2878/trunk/yabause/src/qt/YabauseSoftGL.cpp
+END
+Arguments.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/qt/Arguments.h
+END
+YabauseGL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/yabause/!svn/ver/2686/trunk/yabause/src/qt/YabauseGL.cpp
+END
+yabause.pro.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2672/trunk/yabause/src/qt/yabause.pro.in
+END
+YabauseThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2822/trunk/yabause/src/qt/YabauseThread.cpp
+END
+YabauseGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2878/trunk/yabause/src/qt/YabauseGL.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/qt/main.cpp
+END
+yabause.desktop.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/yabause/!svn/ver/2671/trunk/yabause/src/qt/yabause.desktop.in
+END
+YabauseThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/yabause/!svn/ver/2687/trunk/yabause/src/qt/YabauseThread.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/yabause/!svn/ver/2673/trunk/yabause/src/qt/Makefile.am
+END
+PerQt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/yabause/!svn/ver/1950/trunk/yabause/src/qt/PerQt.c
+END
+CommonDialogs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/yabause/!svn/ver/2785/trunk/yabause/src/qt/CommonDialogs.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/yabause/!svn/ver/2897/trunk/yabause/src/qt/CMakeLists.txt
+END

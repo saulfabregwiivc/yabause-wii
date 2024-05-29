@@ -1,0 +1,21 @@
+--- src/vdp2.c	2012-06-04 22:29:28 +0900
++++ src/vdp2.c	2012-04-27 23:29:13 +0900
+@@ -48,10 +48,18 @@
+ static u64 diffticks=0;
+ static u32 framecount=0;
+ static u64 onesecondticks=0;
++#ifndef GEKKO
+ static int fps;
++#else
++int fps;
++#endif
+ static int fpsframecount=0;
+ static u64 fpsticks;
++#ifndef GEKKO
+ static int fpstoggle=0;
++#else
++int fpstoggle=0;
++#endif
+ 
+ //////////////////////////////////////////////////////////////////////////////
+ int GetOSDToggle(void)
